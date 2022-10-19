@@ -8,7 +8,7 @@ Instalar biblioteca:
 - pip intall flower
 
 ---------------------------------------------------------
-Usei Docker para instalar RabbitMQ: 
+Usando Docker para instalar RabbitMQ: 
 
 - docker run -d -p 5672:5672 rabbitmq 
 
