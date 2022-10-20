@@ -35,7 +35,8 @@ Documentação do celery: https://docs.celeryq.dev/en/stable/index.html
 Download do RabbitMQ: https://www.rabbitmq.com/download.html
 
 
-![image](https://user-images.githubusercontent.com/43301551/197027529-de62edb2-4f9b-41a4-9fe0-52b5e205e6be.png)
+![celery_architecture_final](https://user-images.githubusercontent.com/43301551/197028265-0af89fb4-81f3-44fe-bbac-3f5b23a720b6.png)
+
 
 
 
